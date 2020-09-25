@@ -6,3 +6,4 @@ Temp/
 *.csproj
 Assets/GleyPlugins/
 Assets/GleyPlugins.meta
+.vs/
